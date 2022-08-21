@@ -1,32 +1,44 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us</title>
+    <title>Contactus</title>
+
+    <style>
+     .name{
+        display: inline-block; 
+            }
+
+    </style>
+
 </head>
 <body>
     <h1>Contact Us</h1>
 
-    <div>
-        <h3 length = "30 ">First Name</h3>    <h3>Last Name</h3>   
-        <input type="text"  width="40%" placeholder="Enter your first name">
-        
+    <div  >
+        <h3 class="name">First Name</h3>         
+        <input type="text"  width="40%" placeholder="Enter your first name"> </div>
+     <div>
+        <h3 class="name">Last Name</h3>
         <input type="text" placeholder="Enter your last name">
-    </div> <br> <br>
+    </div> 
 
 
     <div>
-     <h3>E-mail</h3> 
+     <h3 class="name">E-mail   </h3> 
      <input type="email" placeholder="Enter your email id">
+    </div> 
 
-     <h3>Contact Number</h3> 
+    <div>
+     <h3 class="name">Contact No.</h3> 
      <input type="text" placeholder="Enter your Contact number">
-    </div><br> 
+    </div>
 
     
     <div>
+       <h3>Ask questions</h3>
         <textarea name="message" id="message" cols="40" rows="5"placeholder="Type your qaurry " ></textarea>
         
     </div>
@@ -35,6 +47,8 @@
         <h3>Toll free Helpline No. : </h3>
         +91-XXXXXXXXXX
     </div> <br>
-     <button type="submit">Submit</button>
+
+    <button type="submit">Submit</button>
+
 </body>
 </html>
