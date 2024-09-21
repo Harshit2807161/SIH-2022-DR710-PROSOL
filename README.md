@@ -33,6 +33,9 @@ To help job seekers (especially the unemployed youth in their early 20s) identif
 
 ## Approach
 
+![image](https://github.com/user-attachments/assets/ecc1fbd1-a987-4d57-a81f-18e1b24fb94f)
+
+
 ### 1. **NLP-based Resume Parsing**
 We utilized basic **Nuance-based Splitting** along with the **Natural Language Toolkit (NLTK)** library to extract key details from the resumes provided by users. This process helped identify critical information, such as:
 
