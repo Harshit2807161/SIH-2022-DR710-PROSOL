@@ -21,7 +21,7 @@ Smart India Hackathon 2022
 6. Seema Meena  
 **Mentor:** Mayank Agarwal (ML Domain Expertise)  
 **Institute:** Indian Institute of Technology Patna  
-**Result:** Runner-up among 1 lakh+ participating teams  
+**Result:** Runner-up among 30,000+ participating teams  
 **Location:** Vishakapatnam  
 
 ## Problem Statement
@@ -85,7 +85,7 @@ In the future, our goal is to integrate **real-time job opportunities** from the
 
 ## Achievements
 
-- Runner-up among 1 lakh+ participating teams at Smart India Hackathon 2022.
+- Runner-up among 30k+ participating teams at Smart India Hackathon 2022.
 - Successfully demonstrated how AI can be used to bridge the gap between job seekers and employers by providing personalized career guidance.
 - Recognized for the potential to significantly ease the job search process for unemployed individuals in India, especially in their early 20s.
 
